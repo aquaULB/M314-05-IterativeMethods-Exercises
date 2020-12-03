@@ -25,5 +25,10 @@ Question 1.3: /2
 
 Question 2:
 -----------
+Question 2.1: /2
 
-Total: /
+Question 2.2: /1
+
+Question 2.3: /2
+
+Total: / 10
